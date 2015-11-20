@@ -6,5 +6,5 @@ Bundler.require
 # end
 
 get '/' do
-  erb :hello
+  erb :ninja
 end
